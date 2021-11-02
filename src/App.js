@@ -1,4 +1,4 @@
-import Form from "./component/Form";
+import Calculator from "./component/Calculator";
 
 function App() {
   // const quantities = [1, 2, 3];
@@ -9,7 +9,7 @@ function App() {
   // );
   return (
     <div>
-      <Form />
+      <Calculator />
     </div>
   );
 }
